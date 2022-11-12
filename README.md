@@ -8,6 +8,33 @@ layout: page
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
+
+## Published Papers
+<details>
+  <summary>Show All</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
+
+
+
+
+
+
+## Working Papers
+
 ## Features
 
  - supports dark mode on macOS Mojave
