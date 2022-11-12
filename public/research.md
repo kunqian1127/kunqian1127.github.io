@@ -1,6 +1,6 @@
 ---
 title: "Research"
-permalink: "/public/"
+permalink: "/public/research.md"
 layout: page
 ---
 
@@ -29,7 +29,7 @@ Using the staggered adoption of universal demand (UD) laws in the United States,
 ## Working Papers
 <details>
   <summary>Show All</summary>
-  
+
 ## 1. Learning to Disclose: Disclosure Dynamics in the 1890s Streetcar Industry
 ##### *Thomas Bourveau , Matthias Breuer & Robert C. Stoumbos*
 ##### [SSRN 2021](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3757679)
