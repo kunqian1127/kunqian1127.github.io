@@ -7,7 +7,7 @@ excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 markdown: kramdown
 include:
-  - research.md
+  - /public/research.md
 
 # Layout
 
