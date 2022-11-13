@@ -4,15 +4,12 @@
 <details> 
 <summary>Check All:</summary>
 <div>
-    <p style="display: inline-block">
-    1. Shareholder litigation and corporate disclosure: Evidence from derivative lawsuits</p>
+    <p style="display: inline-block">1. Shareholder litigation and corporate disclosure: Evidence from derivative lawsuits</p>
     <i><p style="display: inline-block">(With: Yun Lou,  Rencheng Wang)</p></i>
+    <p style="display: inline-block"> <i>Journal of Accounting Research 56 (3), 797-842</i> </p>
+    <p style="display: inline-block"> <a href="https://doi.org/10.1111/1475-679X.12191" target="_blank">link</a>.</p>
 </div>
 
-<div>
-    <p> <i>Journal of Accounting Research 56 (3), 797-842</i> <a 
-        href="https://doi.org/10.1111/1475-679X.12191" target="_blank">link</a>.</p>
-</div>
 
 <details> 
     <summary><b>Abstract:</b></summary>
