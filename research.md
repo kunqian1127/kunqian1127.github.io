@@ -4,9 +4,9 @@
 <details> 
 <summary>Check All:</summary>
 <div>
-    <h6 style="display: inline-block">
-    1. Shareholder litigation and corporate disclosure: Evidence from derivative lawsuits</h6>
-    <i><h6 style="display: inline-block">(With: Yun Lou,  Rencheng Wang)</h6></i>
+    <p style="display: inline-block">
+    1. Shareholder litigation and corporate disclosure: Evidence from derivative lawsuits</p>
+    <i><p style="display: inline-block">(With: Yun Lou,  Rencheng Wang)</p></i>
 </div>
 
 <div>
