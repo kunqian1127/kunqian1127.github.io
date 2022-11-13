@@ -22,21 +22,21 @@ layout: page
 <details>
   <summary>Show All</summary>
 
-## 1. Shareholder activism and voluntary disclosure
+  ## 1. Shareholder activism and voluntary disclosure
 
-##### *Thomas Bourveau & Jordan Schoenfeld*
+  ##### *Thomas Bourveau & Jordan Schoenfeld*
 
-##### [Review of Accounting Studies volume 22, pages1307–1339 (2017)](https://link.springer.com/article/10.1007/s11142-017-9408-0)
+  ##### [Review of Accounting Studies volume 22, pages1307–1339 (2017)](https://link.springer.com/article/10.1007/s11142-017-9408-0)
 
-**Abstract**: 
+  **Abstract**: 
 
-We examine the relation between shareholder activism and voluntary disclosure. An important consequence of voluntary disclosure is less adverse selection in the capital markets. One class of traders that finds less adverse selection unprofitable is activist investors who target mispriced firms whose valuations they can improve. Consistent with this idea, we find that managers issue earnings and sales forecasts more frequently when their firm is more at risk of attack by activist investors, and that these additional disclosures reduce the likelihood of becoming an activist’s target. These additional disclosures also prompt a positive price reaction, contain more precise guidance, and exceed prevailing market expectations. These findings imply that managers use voluntary disclosure to preempt activism at their firm, and that activists prefer to target relatively opaque firms.
+  We examine the relation between shareholder activism and voluntary disclosure. An important consequence of voluntary disclosure is less adverse selection in the capital markets. One class of traders that finds less adverse selection unprofitable is activist investors who target mispriced firms whose valuations they can improve. Consistent with this idea, we find that managers issue earnings and sales forecasts more frequently when their firm is more at risk of attack by activist investors, and that these additional disclosures reduce the likelihood of becoming an activist’s target. These additional disclosures also prompt a positive price reaction, contain more precise guidance, and exceed prevailing market expectations. These findings imply that managers use voluntary disclosure to preempt activism at their firm, and that activists prefer to target relatively opaque firms.
 
-## 2. Shareholder Litigation and Corporate Disclosure: Evidence from Derivative Lawsuits
-##### *THOMAS BOURVEAU,YUN LOU & RENCHENG WANG*
-##### [Review of Accounting Studies volume 22, pages1307–1339 (2017)](https://doi.org/10.1111/1475-679X.12191)
-**Abstract**: 
-Using the staggered adoption of universal demand (UD) laws in the United States, we study the effect of shareholder litigation risk on corporate disclosure. We find that disclosure significantly increases after UD laws make it more difficult to file derivative lawsuits. Specifically, firms issue more earnings forecasts and voluntary 8-K filings, and increase the length of management discussion and analysis (MD&A) in their 10-K filings. We further assess the direct and indirect channels through which UD laws affect firms' disclosure policies. We find that the effect of UD laws on corporate disclosure is driven by firms facing relatively higher ex ante derivative litigation risk and higher operating uncertainty, as well as firms for which shareholder litigation is a more important mechanism to discipline managers.
+  ## 2. Shareholder Litigation and Corporate Disclosure: Evidence from Derivative Lawsuits
+  ##### *THOMAS BOURVEAU,YUN LOU & RENCHENG WANG*
+  ##### [Review of Accounting Studies volume 22, pages1307–1339 (2017)](https://doi.org/10.1111/1475-679X.12191)
+  **Abstract**: 
+  Using the staggered adoption of universal demand (UD) laws in the United States, we study the effect of shareholder litigation risk on corporate disclosure. We find that disclosure significantly increases after UD laws make it more difficult to file derivative lawsuits. Specifically, firms issue more earnings forecasts and voluntary 8-K filings, and increase the length of management discussion and analysis (MD&A) in their 10-K filings. We further assess the direct and indirect channels through which UD laws affect firms' disclosure policies. We find that the effect of UD laws on corporate disclosure is driven by firms facing relatively higher ex ante derivative litigation risk and higher operating uncertainty, as well as firms for which shareholder litigation is a more important mechanism to discipline managers.
 
 </details>
 
