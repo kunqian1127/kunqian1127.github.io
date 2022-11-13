@@ -1,6 +1,6 @@
 ---
 title: "Research"
-permalink: "/research/"
+# permalink: "/research/"
 layout: page
 ---
 
@@ -23,9 +23,13 @@ layout: page
   <summary>Show All</summary>
 
 ## 1. Shareholder activism and voluntary disclosure
+
 ##### *Thomas Bourveau & Jordan Schoenfeld*
+
 ##### [Review of Accounting Studies volume 22, pages1307–1339 (2017)](https://link.springer.com/article/10.1007/s11142-017-9408-0)
+
 **Abstract**: 
+
 We examine the relation between shareholder activism and voluntary disclosure. An important consequence of voluntary disclosure is less adverse selection in the capital markets. One class of traders that finds less adverse selection unprofitable is activist investors who target mispriced firms whose valuations they can improve. Consistent with this idea, we find that managers issue earnings and sales forecasts more frequently when their firm is more at risk of attack by activist investors, and that these additional disclosures reduce the likelihood of becoming an activist’s target. These additional disclosures also prompt a positive price reaction, contain more precise guidance, and exceed prevailing market expectations. These findings imply that managers use voluntary disclosure to preempt activism at their firm, and that activists prefer to target relatively opaque firms.
 
 ## 2. Shareholder Litigation and Corporate Disclosure: Evidence from Derivative Lawsuits

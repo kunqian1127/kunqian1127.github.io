@@ -1,6 +1,6 @@
 ---
 title: "others"
-permalink: "/others/"
+# permalink: "/others/"
 layout: page
 ---
 
