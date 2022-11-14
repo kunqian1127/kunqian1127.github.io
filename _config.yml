@@ -26,8 +26,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {file: "README.md",    title: "About Me", icon: address-card}
   # - {file: "/public/research.md", title: "Research"}
   - {file: "README.md",          title: "About Me"}
-  - {file: "research.html",    title: "Research"}
-  - {file: "Teaching.md",          title: "Teaching"}
+  - {file: "research.html",      title: "Research"}
+  - {file: "Teaching.md",        title: "Teaching"}
   - {file: "others.md",          title: "Others"}
   # - {file: "projects.html",title: "Projects", icon: code}
 
