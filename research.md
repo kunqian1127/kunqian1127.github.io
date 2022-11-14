@@ -1,9 +1,10 @@
 <!-- iniital summary -->
 <h1 style="display: inline-block">Published Papers</h1>
 
+<p style="display: inline-block">
 <details> 
 <summary>Check All:</summary>
-<div>
+<div >
     <p style="display: inline-block">1. Shareholder litigation and corporate disclosure: Evidence from derivative lawsuits</p>
     <i><p style="display: inline-block">(Yun Lou,  Rencheng Wang)</p></i>
     
@@ -42,6 +43,8 @@
 
 <!-- last -->
 </details> 
+</p>
+adad
 
 
 <!-- <style type="text/css">
@@ -55,3 +58,50 @@
 <div id="element2">
  element 2 markup
 </div> -->
+
+
+
+<style>
+mark{
+    color:red;
+}
+
+<style>
+.content {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+</style>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  });
+}
+</script>
+
+</style>
+
+
+
+<mark>what is DataBase</mark>
+
+
+
+<button type="button" class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum...</p>
+</div>
