@@ -1,16 +1,16 @@
 ---
-layout: default
 title: "Teaching"
+layout: page
 ---
 
-<h1><center>Master / MBA<center></h1>
+<h2><center>Master/MBA<center></h2>
 
 ## Financial Accounting
 ## Valuation
 
 ---
 
-<h1><center>PhD<center></h1>
+<h2><center>PhD<center></h2>
 
 ## Seminars
 ### Ecnometrics
