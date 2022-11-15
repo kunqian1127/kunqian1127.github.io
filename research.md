@@ -14,7 +14,7 @@ title: "Home"
       border: none;
       text-align: left;
       outline: none;
-      font-size:20px;
+      /* font-size:10px; */
       display: inline-block;
       height: 50px;
     }
@@ -201,4 +201,3 @@ title: "Home"
     
     
     </body>
-    </html>
