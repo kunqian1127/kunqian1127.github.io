@@ -62,7 +62,7 @@ title: "Home"
 
 
   <!-- first parts -->
-  <button class="collapsible"><p>Published Paper: </p></button>
+  <button style="display: inline-block"><p>Published Paper: </p></button>
   <div class="content"> 
 
 
