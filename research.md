@@ -7,7 +7,7 @@ title: "Home"
 <style>
     .collapsible {
       /* background-color: #000000; */
-      color: white;
+      /* color: white; */
       cursor: pointer;
       padding: 20px;
       width: 100%;
@@ -19,7 +19,7 @@ title: "Home"
     }
     .collapsiblesmall {
       /* background-color: #000000; */
-      color: white;
+      /* color: white; */
       cursor: pointer;
       padding: 20px;
       width: 100%;
@@ -35,7 +35,7 @@ title: "Home"
     }
     .collapsible:after {
       /* content: '\002B'; */
-      color: white;
+      /* color: white; */
       font-weight: bold;
       float: right;
       margin-left: 5px;
@@ -49,7 +49,7 @@ title: "Home"
       padding: 0 18px;
       max-height: 0;
       /* height: 10px; */
-      color: white;
+      /* color: white; */
       overflow: hidden;
       transition: max-height 0.2s ease-out;
       /* background-color: #000000 */
