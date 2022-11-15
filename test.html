@@ -9,7 +9,7 @@ title: "Home"
       background-color: #212228;
       color: white;
       cursor: pointer;
-      padding: 5px;
+      padding: 0 5px;
       width: 100%;
       border: none;
       text-align: left;
@@ -49,16 +49,16 @@ title: "Home"
 
 
 <!-- first parts -->
-<button class="collapsible"><h2>Published Paper: </h2></button>
+<button class="collapsible"><h1>Published Paper: </h1></button>
 <div class="content"> 
 <!-- first papers -->
 <button class="collapsible">
         <div style="display: inline-block">
-            <p style="display: inline-block">“Shareholder Activism and Voluntary Disclosure”,</p>
-            <p style="display: inline-block"> (with Jordan Schoenfeld),</p>
-            <i><p style="display: inline-block"> Journal of Accounting Research,</p></i>
-            <p style="display: inline-block"> 2017, 22(3), 1307–1339</p>
-            <p style="display:inline-block;"> <a style="color:white" href="https://doi.org/10.1007/s11142-017-9408-0" target="_blank">link</a>.</p>
+            <h2 style="display: inline-block">“Shareholder Activism and Voluntary Disclosure”,</h2>
+            <h2 style="display: inline-block"> (with Jordan Schoenfeld),</h2>
+            <i><h2 style="display: inline-block"> Journal of Accounting Research,</h2></i>
+            <h2 style="display: inline-block"> 2017, 22(3), 1307–1339</h2>
+            <h2 style="display:inline-block;"> <a style="color:white" href="https://doi.org/10.1007/s11142-017-9408-0" target="_blank">link</a>.</h2>
         </div>
 </button>
 
