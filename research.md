@@ -47,7 +47,6 @@ title: "Home"
 </head>
 <body>
 
-<h1>old title</h1>
 <!-- first parts -->
 <button class="collapsible"><p>Published Paper: </p></button>
 <div class="content"> 
@@ -64,10 +63,10 @@ title: "Home"
 
 
 <div class="content">
-    <br>
     <i><b>Abstract:</b></i>
     Using the staggered adoption of universal demand (UD) laws in the United States, we study the effect of shareholder litigation risk on corporate disclosure. We find that disclosure significantly increases after UD laws make it more difficult to file derivative lawsuits. Specifically, firms issue more earnings forecasts and voluntary 8-K filings, and increase the length of management discussion and analysis (MD&A) in their 10-K filings. We further assess the direct and indirect channels through which UD laws affect firms' disclosure policies. We find that the effect of UD laws on corporate disclosure is driven by firms facing relatively higher ex ante derivative litigation risk and higher operating uncertainty, as well as firms for which shareholder litigation is a more important mechanism to discipline managers.
 </div>
+---
 <!-- second papers -->
 <button class="collapsible">
   <div style="display: inline-block">
@@ -78,10 +77,10 @@ title: "Home"
   </div>
 </button>
 <div class="content">
-    <br>
     <i><b>Abstract:</b></i>
     Using the staggered adoption of universal demand (UD) laws in the United States, we study the effect of shareholder litigation risk on corporate disclosure. We find that disclosure significantly increases after UD laws make it more difficult to file derivative lawsuits. Specifically, firms issue more earnings forecasts and voluntary 8-K filings, and increase the length of management discussion and analysis (MD&A) in their 10-K filings. We further assess the direct and indirect channels through which UD laws affect firms' disclosure policies. We find that the effect of UD laws on corporate disclosure is driven by firms facing relatively higher ex ante derivative litigation risk and higher operating uncertainty, as well as firms for which shareholder litigation is a more important mechanism to discipline managers.
 </div>
+---
 <!-- third papers -->
 <button class="collapsible">
     <div style="display: inline-block">
@@ -93,14 +92,12 @@ title: "Home"
 </button>
 
 <div class="content">
-    <br>
     <i><b>Abstract:</b></i>
     We empirically study how collusion in product markets affects firms' financial disclosure strategies. We find that after a rise in cartel enforcement, U.S. firms start sharing more detailed information in their financial disclosure about their customers, contracts, and products. This new information potentially benefits peers by helping to tacitly coordinate actions in product markets. Indeed, changes in disclosure are associated with higher future profitability. Our results highlight the potential conflict between securities and antitrust regulations.
 </div>
+---
 
-
-
-
+<!-- 4th papers -->
 
 
 
