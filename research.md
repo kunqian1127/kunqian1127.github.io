@@ -6,38 +6,53 @@ title: "Home"
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
     .collapsible {
-      /* color: white; */
-      /* cursor: pointer;
+      background-color: #000000;
+      color: white;
+      cursor: pointer;
       padding: 20px;
       width: 100%;
       border: none;
       text-align: left;
       outline: none;
-      font-size: 20px; */
+      font-size: 20px;
+      display: inline-block
+    }
+    .collapsiblesmall {
+      background-color: #000000;
+      color: white;
+      cursor: pointer;
+      padding: 20px;
+      width: 100%;
+      border: none;
+      text-align: left;
+      outline: none;
+      font-size: 20px;
       display: inline-block
     }
     .active, .collapsible:hover {
+      background-color: #000000;
       display: inline-block
     }
     .collapsible:after {
-      /* content: '\002B'; */
-      /* color: white; */
+      content: '\002B';
+      color: white;
       font-weight: bold;
-      /* float: right;
-      margin-left: 5px; */
+      float: right;
+      margin-left: 5px;
       display: inline-block
     }
     .active:after {
-      /* content: "\2212"; */
+      content: "\2212";
       display: inline-block
     }
     .content {
       padding: 0 18px;
       max-height: 0;
       /* height: 10px; */
-      /* color: white; */
+      color: white;
       overflow: hidden;
       transition: max-height 0.2s ease-out;
+      background-color: #000000
     }
     </style>
 </head>
@@ -151,4 +166,4 @@ Using the staggered adoption of universal demand (UD) laws in the United States,
     
     
     </body>
-  
+    </html>
