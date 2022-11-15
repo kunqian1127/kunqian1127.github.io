@@ -9,14 +9,14 @@ title: "Home"
       background-color: #212228;
       color: white;
       cursor: pointer;
-      padding: 0 5px;
+      padding: 0 0px;
       width: 100%;
       border: none;
       text-align: left;
       outline: none;
-      font-size:20px;
+      font-size:12px;
       display: inline-block;
-      height: 75px;
+      height: 50px;
     }
     .active, .collapsible:hover {
       background-color: #212228;
