@@ -1,142 +1,171 @@
----
-layout: default
-title: "Research"
----
+<!DOCTYPE html>
+<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-.collapsible {
-  background-color: #000000;
-  color: white;
-  cursor: pointer;
-  /* padding: 18px; */
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  /* font-size: 15px; */
-  display: inline-block
-}
+    .collapsible {
+      background-color: #000000;
+      color: white;
+      cursor: pointer;
+      padding: 20px;
+      width: 100%;
+      border: none;
+      text-align: left;
+      outline: none;
+      font-size: 20px;
+      display: inline-block
+    }
 
-.active, .collapsible:hover {
-  background-color: #000000;
-  display: inline-block
-}
+    .collapsiblesmall {
+      background-color: #000000;
+      color: white;
+      cursor: pointer;
+      padding: 20px;
+      width: 100%;
+      border: none;
+      text-align: left;
+      outline: none;
+      font-size: 20px;
+      display: inline-block
+    }
 
-.collapsible:after {
-  content: '\002B';
-  color: white;
-  font-weight: bold;
-  float: right;
-  /* margin-left: 5px; */
-  display: inline-block
-}
-
-.active:after {
-  content: "\2212";
-  display: inline-block
-}
-
-.content {
-  padding: 0 18px;
-  /* max-height: 10; */
-  height: 10px;
-  color: white;
-  overflow: hidden;
-  /* transition: max-height 0.2s ease-out; */
-  background-color: #000000
-}
-</style>
-
+    .active, .collapsible:hover {
+      background-color: #000000;
+      display: inline-block
+    }
+    
+    .collapsible:after {
+      content: '\002B';
+      color: white;
+      font-weight: bold;
+      float: right;
+      margin-left: 5px;
+      display: inline-block
+    }
+    
+    .active:after {
+      content: "\2212";
+      display: inline-block
+    }
+    
+    .content {
+      padding: 0 18px;
+      max-height: 0;
+      /* height: 10px; */
+      color: white;
+      overflow: hidden;
+      transition: max-height 0.2s ease-out;
+      background-color: #000000
+    }
+    </style>
 </head>
 <body>
-<h1><center>Welcome to research page</center></h1>
-<p>Feel freee to inlcude anything you want to put here</p>
-<!-- published papers -->
-<button class="collapsible"><h1><center>Published Paper</center></h1></button>
-    <button class="collapsible">
-      <div class="content">
-          <p style="display: inline-block">1. Shareholder litigation and corporate disclosure: Evidence from derivative lawsuits</p>
-          <i><p style="display: inline-block">(With: Yun Lou, Rencheng Wang)</p></i>  
-          <p style="display: inline-block">Journal of Accounting Research 56 (3), 797-842 </p>
-          <p style="display: inline-block"> <a href="https://doi.org/10.1111/1475-679X.12191" target="_blank">link</a>.</p>
-      </div>
-    
 
-    <div class="content">
-      <h3>Abstract: Using the staggered adoption of universal demand</h3>
-      <p>Using the staggered adoption of universal demand (UD) laws in the United States, we study the effect of shareholder litigation risk on corporate disclosure. We find that disclosure significantly increases after UD laws make it more difficult to file derivative lawsuits. Specifically, firms issue more earnings forecasts and voluntary 8-K filings, and increase the length of management discussion and analysis (MD&A) in their 10-K filings. We further assess the direct and indirect channels through which UD laws affect firms' disclosure policies. We find that the effect of UD laws on corporate disclosure is driven by firms facing relatively higher ex ante derivative litigation risk and higher operating uncertainty, as well as firms for which shareholder litigation is a more important mechanism to discipline managers.</p>
-    </div>
-  </button>
 
     
+     <!-- first parts -->
+     <button class="collapsible"><p>Published Paper: </p></button>
+     <div class="content"> 
+    
 
-  <div>
+    <!-- first papers -->
     <button class="collapsible">
-      <p style="display: inline-block">. Shareholder litigation and corporate disclosure: Evidence from derivative lawsuits</p>
-      <i><p style="display: inline-block">(With: Yun Lou, Rencheng Wang)</p></i>  
-      <p style="display: inline-block">Journal of Accounting Research 56 (3), 797-842 </p>
-      <p style="display: inline-block"> <a href="https://doi.org/10.1111/1475-679X.12191" target="_blank">link</a>.</p>
+            <div style="display: inline-block">
+                <p style="display: inline-block">“Shareholder Activism and Voluntary Disclosure”,</p>
+                <p style="display: inline-block"> (with Jordan Schoenfeld)</p>
+                <i><p style="display: inline-block"> Journal of Accounting Research,</p></i>
+                <p style="display: inline-block"> 2017, 22(3), 1307–1339</p>
+                <p style="text-align: right;display: inline-block"> <a href="https://doi.org/10.1111/1475-679X.12191" target="_blank">link</a>.</p>
+            </div>
     </button>
+
     <div class="content">
-      <h3>Abstract:</h3> 
-      <p>Using the staggered adoption of universal demand (UD) laws in the United States, we study the effect of shareholder litigation risk on corporate disclosure. We find that disclosure significantly increases after UD laws make it more difficult to file derivative lawsuits. Specifically, firms issue more earnings forecasts and voluntary 8-K filings, and increase the length of management discussion and analysis (MD&A) in their 10-K filings. We further assess the direct and indirect channels through which UD laws affect firms' disclosure policies. We find that the effect of UD laws on corporate disclosure is driven by firms facing relatively higher ex ante derivative litigation risk and higher operating uncertainty, as well as firms for which shareholder litigation is a more important mechanism to discipline managers.</p>
+        <i><b>Abstract:</b></i>
+        Using the staggered adoption of universal demand (UD) laws in the United States, we study the effect of shareholder litigation risk on corporate disclosure. We find that disclosure significantly increases after UD laws make it more difficult to file derivative lawsuits. Specifically, firms issue more earnings forecasts and voluntary 8-K filings, and increase the length of management discussion and analysis (MD&A) in their 10-K filings. We further assess the direct and indirect channels through which UD laws affect firms' disclosure policies. We find that the effect of UD laws on corporate disclosure is driven by firms facing relatively higher ex ante derivative litigation risk and higher operating uncertainty, as well as firms for which shareholder litigation is a more important mechanism to discipline managers.
     </div>
-  </div>
-
-</div>
 
 
-<!-- working papers -->
-<h2><center>Here are my working projects</center></h2>
-<button class="collapsible"><h1><center>Working Papers</center></h1></button>
+<!-- second papers -->
+<button class="collapsible">
+    <div style="display: inline-block">
+        <p style="display: inline-block">Shareholder litigation and corporate disclosure: Evidence from derivative lawsuits</p>
+        <i style="display: inline-block"><p> (With Yun Lou,  Rencheng Wang)</p></i>
+        <p style="display: inline-block"> Journal of Accounting Research 56 (3), 797-842 </p>
+        <p style="display: inline-block; text-align: right"> <a href="https://doi.org/10.1111/1475-679X.12191" target="_blank">link</a>.</p>
+    </div>
+</button>
+
 <div class="content">
-    <button class="collapsible">
-      <div>
-          <p style="display: inline-block">1. Shareholder litigation and corporate disclosure: Evidence from derivative lawsuits</p>
-          <i><p style="display: inline-block">(With: Yun Lou, Rencheng Wang)</p></i>  
-          <p style="display: inline-block">Journal of Accounting Research 56 (3), 797-842 </p>
-          <p style="display: inline-block"> <a href="https://doi.org/10.1111/1475-679X.12191" target="_blank">link</a>.</p>
-      </div>
-    </button>
+<i><b>Abstract:</b></i>
+Using the staggered adoption of universal demand (UD) laws in the United States, we study the effect of shareholder litigation risk on corporate disclosure. We find that disclosure significantly increases after UD laws make it more difficult to file derivative lawsuits. Specifically, firms issue more earnings forecasts and voluntary 8-K filings, and increase the length of management discussion and analysis (MD&A) in their 10-K filings. We further assess the direct and indirect channels through which UD laws affect firms' disclosure policies. We find that the effect of UD laws on corporate disclosure is driven by firms facing relatively higher ex ante derivative litigation risk and higher operating uncertainty, as well as firms for which shareholder litigation is a more important mechanism to discipline managers.
+</div>    
 
+
+    <button class="collapsible">Open Section 2</button>
     <div class="content">
-      <h3>Abstract:</h3> 
-      <p>Using the staggered adoption of universal demand (UD) laws in the United States, we study the effect of shareholder litigation risk on corporate disclosure. We find that disclosure significantly increases after UD laws make it more difficult to file derivative lawsuits. Specifically, firms issue more earnings forecasts and voluntary 8-K filings, and increase the length of management discussion and analysis (MD&A) in their 10-K filings. We further assess the direct and indirect channels through which UD laws affect firms' disclosure policies. We find that the effect of UD laws on corporate disclosure is driven by firms facing relatively higher ex ante derivative litigation risk and higher operating uncertainty, as well as firms for which shareholder litigation is a more important mechanism to discipline managers.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
     </div>
-
-
-  <div>
-    <button class="collapsible">
-      <p style="display: inline-block">. Shareholder litigation and corporate disclosure: Evidence from derivative lawsuits</p>
-      <i><p style="display: inline-block">(With: Yun Lou, Rencheng Wang)</p></i>  
-      <p style="display: inline-block">Journal of Accounting Research 56 (3), 797-842 </p>
-      <p style="display: inline-block"> <a href="https://doi.org/10.1111/1475-679X.12191" target="_blank">link</a>.</p>
-    </button>
+    <button class="collapsible">Open Section 3</button>
     <div class="content">
-      <h3>Abstract:</h3> 
-      <p>Using the staggered adoption of universal demand (UD) laws in the United States, we study the effect of shareholder litigation risk on corporate disclosure. We find that disclosure significantly increases after UD laws make it more difficult to file derivative lawsuits. Specifically, firms issue more earnings forecasts and voluntary 8-K filings, and increase the length of management discussion and analysis (MD&A) in their 10-K filings. We further assess the direct and indirect channels through which UD laws affect firms' disclosure policies. We find that the effect of UD laws on corporate disclosure is driven by firms facing relatively higher ex ante derivative litigation risk and higher operating uncertainty, as well as firms for which shareholder litigation is a more important mechanism to discipline managers.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
     </div>
-  </div>
-</div>
+    
+    </div>
+    
+    <!-- second parts -->
+         <button class="collapsible"><p>Collapsible Set:</p></button>
+         <div class="content"> 
+        
+        <button class="collapsible">Open Section 1</button>
+        <div class="content">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+        <button class="collapsible">Open Section 2</button>
+        <div class="content">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+        <button class="collapsible">Open Section 3</button>
+        <div class="content">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+        
+        </div>
+
+
+    
+    
 
 
 
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
 
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-    } 
-  });
-}
-</script>
 
-</body>
+
+
+
+
+
+
+
+
+    <script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+    
+    for (i = 0; i < coll.length; i++) {
+      coll[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.maxHeight){
+          content.style.maxHeight = null;
+        } else {
+        //   content.style.maxHeight = content.scrollHeight + "px";
+          content.style.maxHeight = 1000000 + "px";
+        } 
+      });
+    }
+    </script>
+    
+    
+    
+    </body>
+    </html>
