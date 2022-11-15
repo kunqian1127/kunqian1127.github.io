@@ -58,7 +58,7 @@ title: "Home"
 </head>
 <body>
 
-<h1>New title</h1>
+<h1>New title1 </h1>
 
 
   <!-- first parts -->
