@@ -8,25 +8,25 @@ title: "Home"
     .collapsible {
       /* background-color: #000000; */
       /* color: white; */
-      cursor: pointer;
+      /* cursor: pointer;
       padding: 20px;
       width: 100%;
       border: none;
       text-align: left;
       outline: none;
-      font-size: 20px;
+      font-size: 20px; */
       display: inline-block
     }
     .collapsiblesmall {
       /* background-color: #000000; */
       /* color: white; */
-      cursor: pointer;
+      /* cursor: pointer;
       padding: 20px;
       width: 100%;
       border: none;
       text-align: left;
       outline: none;
-      font-size: 20px;
+      font-size: 20px; */
       display: inline-block
     }
     .active, .collapsible:hover {
@@ -37,8 +37,8 @@ title: "Home"
       /* content: '\002B'; */
       /* color: white; */
       font-weight: bold;
-      float: right;
-      margin-left: 5px;
+      /* float: right;
+      margin-left: 5px; */
       display: inline-block
     }
     .active:after {
