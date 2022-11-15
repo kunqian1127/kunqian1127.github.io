@@ -3,19 +3,16 @@ layout: default
 title: "Teaching"
 ---
 
-# <center> Master / MBA <center>
+<h1> <center> Master / MBA <center></h1>
 
 ## Financial Accounting
 ## Valuation
 
 ---
 
-#<center> PhD
+<h1> <center>PhD<center></h1>
+
 ## Seminars
 ### Ecnometrics
-
-<h2><center>Hobby</center><h2>
-<h3>Sailing</h3>
-<h3>Football</h3>
 
 ---
