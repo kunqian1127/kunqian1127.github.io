@@ -14,7 +14,7 @@ title: "Home"
       border: none;
       text-align: left;
       outline: none;
-      font-size:12px;
+      font-size:16px;
       display: inline-block;
       height: 50px;
     }
