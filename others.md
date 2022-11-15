@@ -18,20 +18,20 @@ layout: page
 </head> -->
 
 
-<h2><center>Hobby</center><h2>
+<h2><center>Hobby</center></h2>
 
 ### Sailing
 ### Football
 
 ---
 
-<h2><center>Wine</center><h2>
+<h2><center>Wine</center></h2>
 
 ### Bordeaux
 ### American
 
 ---
-<h2><center>Cats</center><h2>
+<h2><center>Cats</center></h2>
 
 ### Persian
 ### British Shorthair Cat
