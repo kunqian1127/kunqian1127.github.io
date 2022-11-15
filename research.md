@@ -17,6 +17,8 @@ title: "Home"
       font-size:16px;
       display: inline-block;
       height: 50px;
+      font-weight: bold;
+
     }
     .active, .collapsible:hover {
       background-color: #212228;
