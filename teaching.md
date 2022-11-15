@@ -3,10 +3,13 @@ layout: default
 title: "Teaching"
 ---
 
-#<center> Master / MBA 
+# <center> Master / MBA <center>
+
 ## Financial Accounting
 ## Valuation
+
 ---
+
 #<center> PhD
 ## Seminars
 ### Ecnometrics
