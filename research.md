@@ -16,25 +16,13 @@ title: "Home"
       font-size: 20px; */
       display: inline-block
     }
-    .collapsiblesmall {
-      /* color: white; */
-      /* cursor: pointer;
-      padding: 20px;
-      width: 100%;
-      border: none;
-      text-align: left;
-      outline: none;
-      font-size: 20px; */
-      display: inline-block
-    }
     .active, .collapsible:hover {
-      /* background-color: #000000; */
       display: inline-block
     }
     .collapsible:after {
       /* content: '\002B'; */
       /* color: white; */
-      /* font-weight: bold; */
+      font-weight: bold;
       /* float: right;
       margin-left: 5px; */
       display: inline-block
@@ -50,17 +38,16 @@ title: "Home"
       /* color: white; */
       overflow: hidden;
       transition: max-height 0.2s ease-out;
-      /* background-color: #000000 */
     }
     </style>
 </head>
 <body>
 
-<h1>New title1 </h1>
+<h1>New title</h1>
 
 
   <!-- first parts -->
-  <button style="display: inline-block"><p>Published Paper: </p></button>
+  <button class="collapsible"><p>Published Paper: </p></button>
   <div class="content"> 
 
 
