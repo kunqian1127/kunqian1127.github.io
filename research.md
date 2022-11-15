@@ -29,7 +29,7 @@ title: "Home"
       color: white;
       font-weight: bold;
       float: right;
-      margin-left: 5px;
+      margin-left: 0px;
       display: inline-block
     }
     .active:after {
@@ -51,7 +51,7 @@ title: "Home"
 
 
 <!-- first parts -->
-<button class="collapsible"><h2>Published Paper: </h2></button>
+<button class="collapsible"><center><h2>Published Paper</h2></center></button>
 <div class="content"> 
 <!-- first papers -->
 <button class="collapsible">
@@ -60,8 +60,8 @@ title: "Home"
             <p style="display: inline-block"> (with Jordan Schoenfeld),</p>
             <i><p style="display: inline-block"> Journal of Accounting Research,</p></i>
             <p style="display: inline-block"> 2017, 22(3), 1307–1339</p>
-            <p style="display:inline-block;"> <a style="color:white" href="https://doi.org/10.1007/s11142-017-9408-0" target="_blank">link</a>.</p>
         </div>
+        <p style="display:inline-block;"> <a style="color:white" href="https://doi.org/10.1007/s11142-017-9408-0" target="_blank">link</a>.</p>
 </button>
 
 <div class="content">
@@ -107,7 +107,7 @@ title: "Home"
 </div>
     
 <!-- second parts -->
-<button class="collapsible"><h2>Working Paper:</h2></button>
+<button class="collapsible"><h2><center>Working Paper</center></h2></button>
 <div class="content"> 
 <!-- 1st papers -->
 <button class="collapsible">
@@ -118,9 +118,8 @@ title: "Home"
         <p style="display:inline-block;"> <a style="color:white" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3757679" target="_blank">link</a>.</p>
     </div>
 </button>
-
 <div class="content">
-    <br>
+    
     <i><b>Abstract:</b></i>
     We study the descriptiveness of the “unravelling” prediction in the 1890s streetcar industry. In this historical setting, capital-intensive streetcar companies gain the opportunity to disclose their earnings to dispersed investors via a new, quarterly newspaper supplement. We document that a quarter of the companies withhold their earnings from the ﬁrst supplement, inconsistent with the “unravelling” prediction. However, almost all these companies start disclosing within the next couple of supplements, with the relatively-better companies among the remaining non-disclosers initiating disclosure and leaving the pool of non-disclosers each quarter. We interpret these stylized facts through the lens of a disclosure model featuring level-k thinking. Our model estimates that a substantial share of the companies employs a lower level of strategic thinking in the ﬁrst supplement. This deviation from rational expectations appears to explain the initial failure of the “unravelling” prediction. Over time, companies appear to adopt higher levels of thinking, contributing to the rapid convergence to an (almost) full disclosure equilibrium. Collectively, our evidence is consistent with market forces yielding an (almost) full disclosure equilibrium in the medium to long run through repetition and learning.
 </div>
@@ -136,7 +135,7 @@ title: "Home"
 </button>
 
 <div class="content">
-    <br>
+    
     <i><b>Abstract:</b></i>
     3We construct a new measure of voluntary disclosure based on ﬁrms’ websites. Using the Wayback Machine, we create a standardized measure of disclosure capturing the quantity of information on ﬁrms’ websites. We validate our measure by documenting that it is positively associated with established measures of ﬁrms’ voluntary disclosure and liquidity. Importantly, we document that our measure, while correlated with established disclosure measures, is not subsumed by those measures. It complements existing measures in three important ways. First, our measure captures not only capital-market-related but also additional information geared toward stakeholders other than investors (e.g., customers). Secondly, our measure can be calculated for a broader sample of ﬁrms, including small, private, and international ﬁrms. Lastly, our measure can be customized to ﬁt the speciﬁc research question at hand (e.g., ESG disclosures) via textual analysis of website content.
 </div>
@@ -152,7 +151,7 @@ title: "Home"
 </button>
 
 <div class="content">
-    <br>
+    
     <i><b>Abstract:</b></i>
     We study the descriptiveness of the “unravelling” prediction in the 1890s streetcar industry. In this historical setting, capital-intensive streetcar companies gain the opportunity to disclose their earnings to dispersed investors via a new, quarterly newspaper supplement. We document that a quarter of the companies withhold their earnings from the ﬁrst supplement, inconsistent with the “unravelling” prediction. However, almost all these companies start disclosing within the next couple of supplements, with the relatively-better companies among the remaining non-disclosers initiating disclosure and leaving the pool of non-disclosers each quarter. We interpret these stylized facts through the lens of a disclosure model featuring level-k thinking. Our model estimates that a substantial share of the companies employs a lower level of strategic thinking in the ﬁrst supplement. This deviation from rational expectations appears to explain the initial failure of the “unravelling” prediction. Over time, companies appear to adopt higher levels of thinking, contributing to the rapid convergence to an (almost) full disclosure equilibrium. Collectively, our evidence is consistent with market forces yielding an (almost) full disclosure equilibrium in the medium to long run through repetition and learning.
 </div>
