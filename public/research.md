@@ -58,28 +58,29 @@ title: "Home"
 </head>
 <body>
 
+<h1>New title</h1>
 
-    
-     <!-- first parts -->
-     <button class="collapsible"><p>Published Paper: </p></button>
-     <div class="content"> 
-    
 
-    <!-- first papers -->
-    <button class="collapsible">
-            <div style="display: inline-block">
-                <p style="display: inline-block">“Shareholder Activism and Voluntary Disclosure”,</p>
-                <p style="display: inline-block"> (with Jordan Schoenfeld)</p>
-                <i><p style="display: inline-block"> Journal of Accounting Research,</p></i>
-                <p style="display: inline-block"> 2017, 22(3), 1307–1339</p>
-                <p style="text-align: right;display: inline-block"> <a href="https://doi.org/10.1007/s11142-017-9408-0" target="_blank">link</a>.</p>
-            </div>
-    </button>
+  <!-- first parts -->
+  <button class="collapsible"><p>Published Paper: </p></button>
+  <div class="content"> 
 
-    <div class="content">
-        <i><b>Abstract:</b></i>
-        Using the staggered adoption of universal demand (UD) laws in the United States, we study the effect of shareholder litigation risk on corporate disclosure. We find that disclosure significantly increases after UD laws make it more difficult to file derivative lawsuits. Specifically, firms issue more earnings forecasts and voluntary 8-K filings, and increase the length of management discussion and analysis (MD&A) in their 10-K filings. We further assess the direct and indirect channels through which UD laws affect firms' disclosure policies. We find that the effect of UD laws on corporate disclosure is driven by firms facing relatively higher ex ante derivative litigation risk and higher operating uncertainty, as well as firms for which shareholder litigation is a more important mechanism to discipline managers.
-    </div>
+
+<!-- first papers -->
+<button class="collapsible">
+        <div style="display: inline-block">
+            <p style="display: inline-block">“Shareholder Activism and Voluntary Disclosure”,</p>
+            <p style="display: inline-block"> (with Jordan Schoenfeld)</p>
+            <i><p style="display: inline-block"> Journal of Accounting Research,</p></i>
+            <p style="display: inline-block"> 2017, 22(3), 1307–1339</p>
+            <p style="text-align: right;display: inline-block"> <a href="https://doi.org/10.1007/s11142-017-9408-0" target="_blank">link</a>.</p>
+        </div>
+</button>
+
+<div class="content">
+    <i><b>Abstract:</b></i>
+    Using the staggered adoption of universal demand (UD) laws in the United States, we study the effect of shareholder litigation risk on corporate disclosure. We find that disclosure significantly increases after UD laws make it more difficult to file derivative lawsuits. Specifically, firms issue more earnings forecasts and voluntary 8-K filings, and increase the length of management discussion and analysis (MD&A) in their 10-K filings. We further assess the direct and indirect channels through which UD laws affect firms' disclosure policies. We find that the effect of UD laws on corporate disclosure is driven by firms facing relatively higher ex ante derivative litigation risk and higher operating uncertainty, as well as firms for which shareholder litigation is a more important mechanism to discipline managers.
+</div>
 
 
 <!-- second papers -->
