@@ -6,7 +6,7 @@ title: "Home"
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
     .collapsible {
-      background-color: #000000;
+      background-color: #212228;
       color: white;
       cursor: pointer;
       padding: 20px;
@@ -15,10 +15,11 @@ title: "Home"
       text-align: left;
       outline: none;
       font-size: 20px;
-      display: inline-block
+      display: inline-block;
+      data-color-mode="auto"
     }
     .collapsiblesmall {
-      background-color: #000000;
+      background-color: #212228;
       color: white;
       cursor: pointer;
       padding: 20px;
@@ -30,7 +31,7 @@ title: "Home"
       display: inline-block
     }
     .active, .collapsible:hover {
-      background-color: #000000;
+      background-color: #212228;
       display: inline-block
     }
     .collapsible:after {
@@ -52,7 +53,7 @@ title: "Home"
       color: white;
       overflow: hidden;
       transition: max-height 0.2s ease-out;
-      background-color: #000000
+      background-color: #212228
     }
     </style>
 </head>
@@ -61,9 +62,9 @@ title: "Home"
 <h1>New title</h1>
 
 
-  <!-- first parts -->
-  <button class="collapsible"><p>Published Paper: </p></button>
-  <div class="content"> 
+<!-- first parts -->
+<button class="collapsible"><p>Published Paper: </p></button>
+<div class="content"> 
 
 
 <!-- first papers -->
