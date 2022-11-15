@@ -14,9 +14,9 @@ title: "Home"
       border: none;
       text-align: left;
       outline: none;
-      font-size:15px;
+      font-size:20px;
       display: inline-block;
-      height: 50px;
+      height: 75px;
     }
     .active, .collapsible:hover {
       background-color: #212228;
@@ -49,7 +49,7 @@ title: "Home"
 
 
 <!-- first parts -->
-<button class="collapsible"><h1>Published Paper: </h1></button>
+<button class="collapsible"><h2>Published Paper: </h2></button>
 <div class="content"> 
 <!-- first papers -->
 <button class="collapsible">
