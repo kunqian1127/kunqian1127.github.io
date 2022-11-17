@@ -6,8 +6,8 @@ title: "Home"
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
     .collapsible {
-      background-color: #212228;
-      color: white;
+      background-color: #white;
+      color: black;
       cursor: pointer;
       padding: 0 0px;
       width: 100%;
@@ -21,12 +21,12 @@ title: "Home"
 
     }
     .active, .collapsible:hover {
-      background-color: #212228;
+      background-color: #white;
       display: inline-block
     }
     .collapsible:after {
       content: '\002B';
-      color: white;
+      color: black;
       font-weight: bold;
       float: right;
       margin-left: 0px;
@@ -40,10 +40,10 @@ title: "Home"
       padding: 0 5px;
       max-height: 0;
       /* height: 10px; */
-      color: white;
+      color: black;
       overflow: hidden;
       transition: max-height 0.2s ease-out;
-      background-color: #212228
+      background-color: #white
     }
     </style>
 </head>
@@ -51,8 +51,7 @@ title: "Home"
 
 
 <!-- first parts -->
-<button class="collapsible"><center><h2>Published Paper</h2></center></button>
-<div class="content"> 
+<center><h2>Published Paper</h2></center>
 <!-- first papers -->
 <button class="collapsible">
         <div style="display: inline-block">
@@ -61,7 +60,7 @@ title: "Home"
             <i><p style="display: inline-block"> Journal of Accounting Research,</p></i>
             <p style="display: inline-block"> 2017, 22(3), 1307–1339</p>
         </div>
-        <p style="display:inline-block;"> <a style="color:white" href="https://doi.org/10.1007/s11142-017-9408-0" target="_blank">link</a>.</p>
+        <p style="display:inline-block;"> <a style="color:grey" href="https://doi.org/10.1007/s11142-017-9408-0" target="_blank">link</a>.</p>
 </button>
 
 <div class="content">
@@ -69,28 +68,28 @@ title: "Home"
     Using the staggered adoption of universal demand (UD) laws in the United States, we study the effect of shareholder litigation risk on corporate disclosure. We find that disclosure significantly increases after UD laws make it more difficult to file derivative lawsuits. Specifically, firms issue more earnings forecasts and voluntary 8-K filings, and increase the length of management discussion and analysis (MD&A) in their 10-K filings. We further assess the direct and indirect channels through which UD laws affect firms' disclosure policies. We find that the effect of UD laws on corporate disclosure is driven by firms facing relatively higher ex ante derivative litigation risk and higher operating uncertainty, as well as firms for which shareholder litigation is a more important mechanism to discipline managers.
 </div>
 
-<hr />
+
 <!-- second papers -->
 <button class="collapsible">
   <div style="display: inline-block">
     <p style="display: inline-block">“Shareholder Litigation and Corporate Disclosure: Evidence from Shareholder Derivative Suits”, with Y. Lou and R. Wang”,</p>
       <i><p style="display: inline-block"> Journal of Accounting Research,</p></i>
       <p style="display: inline-block">2018, 56(3), 797–842</p>
-      <p style="display:inline-block;"> <a style="color:white" href="https://doi.org/10.1111/1475-679X.12191" target="_blank">link</a>.</p>
+      <p style="display:inline-block;"> <a style="color:grey" href="https://doi.org/10.1111/1475-679X.12191" target="_blank">link</a>.</p>
   </div>
 </button>
 <div class="content">
     <i><b>Abstract:</b></i>
     Using the staggered adoption of universal demand (UD) laws in the United States, we study the effect of shareholder litigation risk on corporate disclosure. We find that disclosure significantly increases after UD laws make it more difficult to file derivative lawsuits. Specifically, firms issue more earnings forecasts and voluntary 8-K filings, and increase the length of management discussion and analysis (MD&A) in their 10-K filings. We further assess the direct and indirect channels through which UD laws affect firms' disclosure policies. We find that the effect of UD laws on corporate disclosure is driven by firms facing relatively higher ex ante derivative litigation risk and higher operating uncertainty, as well as firms for which shareholder litigation is a more important mechanism to discipline managers.
 </div>
-<hr />
+
 <!-- third papers -->
 <button class="collapsible">
     <div style="display: inline-block">
         <p style="display: inline-block">“Corporate Disclosure as a Tacit Coordination Mechanism: Evidence from Cartel Enforcement Regulations”, with G. She and A. Zaldokas, </p>
         <i><p style="display: inline-block">Journal of Accounting Research,</p></i>
         <p style="display: inline-block">2020, 58(2), 295–332</p>
-        <p style="display:inline-block;"> <a style="color:white" href="https://doi.org/10.1111/1475-679X.12301" target="_blank">link</a>.</p>
+        <p style="display:inline-block;"> <a" href="https://doi.org/10.1111/1475-679X.12301" target="_blank">link</a>.</p>
     </div>
 </button>
 
@@ -98,13 +97,8 @@ title: "Home"
     <i><b>Abstract:</b></i>
     We empirically study how collusion in product markets affects firms' financial disclosure strategies. We find that after a rise in cartel enforcement, U.S. firms start sharing more detailed information in their financial disclosure about their customers, contracts, and products. This new information potentially benefits peers by helping to tacitly coordinate actions in product markets. Indeed, changes in disclosure are associated with higher future profitability. Our results highlight the potential conflict between securities and antitrust regulations.
 </div>
-<hr/>
 <!-- 4th papers -->
 
-
-
-
-</div>
 
 <br>
 <br>
@@ -113,23 +107,25 @@ title: "Home"
 
     
 <!-- second parts -->
-<button class="collapsible"><h2><center>Working Paper</center></h2></button>
-<div class="content"> 
+<!-- first parts -->
+<center><h2>Working Paper</h2></center>
 <!-- 1st papers -->
 <button class="collapsible">
     <div style="display: inline-block">
         <p style="display: inline-block">“Learning to Disclose: Disclosure Dynamics in the 1890s Streetcar Industry”, with M. Breuer and R. Stoumbos</p>
         <i><p style="display: inline-block">SSRN</p></i>
         <p style="display: inline-block">2021</p>
-        <p style="display:inline-block;"> <a style="color:white" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3757679" target="_blank">link</a>.</p>
-    </div>
+        <p style="display:inline-block;"> <a style="color:grey" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3757679" target="_blank">link</a>.</p>
+    </div>  
 </button>
+
+
 <div class="content">
-    
     <i><b>Abstract:</b></i>
     We study the descriptiveness of the “unravelling” prediction in the 1890s streetcar industry. In this historical setting, capital-intensive streetcar companies gain the opportunity to disclose their earnings to dispersed investors via a new, quarterly newspaper supplement. We document that a quarter of the companies withhold their earnings from the ﬁrst supplement, inconsistent with the “unravelling” prediction. However, almost all these companies start disclosing within the next couple of supplements, with the relatively-better companies among the remaining non-disclosers initiating disclosure and leaving the pool of non-disclosers each quarter. We interpret these stylized facts through the lens of a disclosure model featuring level-k thinking. Our model estimates that a substantial share of the companies employs a lower level of strategic thinking in the ﬁrst supplement. This deviation from rational expectations appears to explain the initial failure of the “unravelling” prediction. Over time, companies appear to adopt higher levels of thinking, contributing to the rapid convergence to an (almost) full disclosure equilibrium. Collectively, our evidence is consistent with market forces yielding an (almost) full disclosure equilibrium in the medium to long run through repetition and learning.
 </div>
-<hr/>
+
+
 <!-- 2nd papers -->
 <button class="collapsible">
     <div style="display: inline-block">

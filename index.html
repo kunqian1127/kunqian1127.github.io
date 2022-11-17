@@ -2,118 +2,205 @@
 layout: default
 title: "Home"
 ---
-
-<!-- {% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %} -->
-
-<!-- <!DOCTYPE html>
-<html lang="en"> -->
-<!--
-Template from: Copyright (c) 2016-2018 Jami Gibbs. http://jamigibbs.com | MIT License | https://github.com/jamigibbs/portfolio
-Template adjusted by Thomas Bourveau
--->
-
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Thomas Bourveau - Research Assistant of Accounting.">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+    .collapsible {
+      background-color: #white;
+      color: black;
+      cursor: pointer;
+      padding: 0 0px;
+      width: 100%;
+      border: none;
+      text-align: left;
+      outline: none;
+      font-size:14px;
+      display: inline-block;
+      height: 50px;
+      font-weight: bold;
 
-
-  <title style="font-size:100px;">
-    
-      Thomas Bourveau &middot; Personal Web Page
-    
-  </title>
-
-  <link rel="stylesheet" href="/styles.css">
-  <link rel="alternate" type="application/atom+xml" title="Thomas Bourveau" href="/atom.xml">
+    }
+    .active, .collapsible:hover {
+      background-color: #white;
+      display: inline-block
+    }
+    .collapsible:after {
+      content: '\002B';
+      color: black;
+      font-weight: bold;
+      float: right;
+      margin-left: 0px;
+      display: inline-block
+    }
+    .active:after {
+      content: "\2212";
+      display: inline-block
+    }
+    .content {
+      padding: 0 5px;
+      max-height: 0;
+      /* height: 10px; */
+      color: black;
+      overflow: hidden;
+      transition: max-height 0.2s ease-out;
+      background-color: #white
+    }
+    </style>
 </head>
-
-
 <body>
 
-<p style="text-align:center; font-size:50px;">
-    <br><b>Thomas Bourveau</b>  
-    <br>Columbia Business School
-</p>
 
-
-
-    <div class="row">
-        <div class="medium-6 medium-offset-3 columns">
-            <header class="masthead">
-                <center><img src="thomas.jpg" width="400" height="500" alt="Thomas Bourveau"><center>
-            </header>
+<!-- first parts -->
+<center><h2>Published Paper</h2></center>
+<!-- first papers -->
+<button class="collapsible">
+        <div style="display: inline-block">
+            <p style="display: inline-block">“Shareholder Activism and Voluntary Disclosure”,</p>
+            <p style="display: inline-block"> (with Jordan Schoenfeld),</p>
+            <i><p style="display: inline-block"> Journal of Accounting Research,</p></i>
+            <p style="display: inline-block"> 2017, 22(3), 1307–1339</p>
         </div>
-    </div>
-    <div class="row">
-        <div class="medium-8 medium-offset-2 columns">
-                <div class="content-section">
-<p style="margin-right: 100px;margin-left: 100px">
-    Hi, all! My name is Thomas Bourveau.
-</p>
+        <p style="display:inline-block;"> <a style="color:grey" href="https://doi.org/10.1007/s11142-017-9408-0" target="_blank">link</a>.</p>
+</button>
 
-<p style="margin-right: 100px;margin-left: 100px">
-    I joined Columbia University in 2018. I previously served on the faculty at the Hong Kong University of Science and Technology. I obtained in PhD in Management Science from HEC Paris. I teach financial statement analysis in Columbia Business School's MBA program. 
-    <br>
-    <br>
-    I primarily conducts empirical research. My research lies at the intersection of accounting, law, and economics. I am most interested in evaluating the implications of regulatory interventions in financial markets, often through the role of information disclosure. 
-</p>
-
-<p style="margin-right: 100px;margin-left: 100px">
-
-</p>
-
-
-</div>
-    <h4 style="margin-right: 100px;margin-left: 100px">Get In Touch.</h4>  
-        <p style="margin-right: 100px;margin-left: 100px">
-            Send me an <a href="mailto:tb2797@columbia.edu">email</a>. I am also on <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1459768">SSRN</a> and <a href="https://github.com/kunqian1127">Github</a>.
-        </p>
-        </div>
-    </div>
-<div class="row">
-
+<div class="content">
+    <i><b>Abstract:</b></i>
+    Using the staggered adoption of universal demand (UD) laws in the United States, we study the effect of shareholder litigation risk on corporate disclosure. We find that disclosure significantly increases after UD laws make it more difficult to file derivative lawsuits. Specifically, firms issue more earnings forecasts and voluntary 8-K filings, and increase the length of management discussion and analysis (MD&A) in their 10-K filings. We further assess the direct and indirect channels through which UD laws affect firms' disclosure policies. We find that the effect of UD laws on corporate disclosure is driven by firms facing relatively higher ex ante derivative litigation risk and higher operating uncertainty, as well as firms for which shareholder litigation is a more important mechanism to discipline managers.
 </div>
 
 
-<div class="row">
-    <div class="medium-8 medium-offset-2 columns">
-        <hr>
-        <footer>
-            <p class="myaddressfooter" style="text-align:center">
-                <!-- &copy; <time datetime="2022-05-12T17:43:12+00:00">2022</time>. -->
-                The University of Columbia Business School
-                <br> 665 W 130th St
-                <br> New York, NY 10027
-                <br> United States
-                <br>
-                <!-- <br> Phone: +1 646 220 2551 -->
-                <br> Email: tb2797@columbia.edu
-            </p>
-        </footer>
+<!-- second papers -->
+<button class="collapsible">
+  <div style="display: inline-block">
+    <p style="display: inline-block">“Shareholder Litigation and Corporate Disclosure: Evidence from Shareholder Derivative Suits”, with Y. Lou and R. Wang”,</p>
+      <i><p style="display: inline-block"> Journal of Accounting Research,</p></i>
+      <p style="display: inline-block">2018, 56(3), 797–842</p>
+      <p style="display:inline-block;"> <a style="color:grey" href="https://doi.org/10.1111/1475-679X.12191" target="_blank">link</a>.</p>
+  </div>
+</button>
+<div class="content">
+    <i><b>Abstract:</b></i>
+    Using the staggered adoption of universal demand (UD) laws in the United States, we study the effect of shareholder litigation risk on corporate disclosure. We find that disclosure significantly increases after UD laws make it more difficult to file derivative lawsuits. Specifically, firms issue more earnings forecasts and voluntary 8-K filings, and increase the length of management discussion and analysis (MD&A) in their 10-K filings. We further assess the direct and indirect channels through which UD laws affect firms' disclosure policies. We find that the effect of UD laws on corporate disclosure is driven by firms facing relatively higher ex ante derivative litigation risk and higher operating uncertainty, as well as firms for which shareholder litigation is a more important mechanism to discipline managers.
+</div>
+
+<!-- third papers -->
+<button class="collapsible">
+    <div style="display: inline-block">
+        <p style="display: inline-block">“Corporate Disclosure as a Tacit Coordination Mechanism: Evidence from Cartel Enforcement Regulations”, with G. She and A. Zaldokas, </p>
+        <i><p style="display: inline-block">Journal of Accounting Research,</p></i>
+        <p style="display: inline-block">2020, 58(2), 295–332</p>
+        <p style="display:inline-block;"> <a" href="https://doi.org/10.1111/1475-679X.12301" target="_blank">link</a>.</p>
     </div>
+</button>
+
+<div class="content">
+    <i><b>Abstract:</b></i>
+    We empirically study how collusion in product markets affects firms' financial disclosure strategies. We find that after a rise in cartel enforcement, U.S. firms start sharing more detailed information in their financial disclosure about their customers, contracts, and products. This new information potentially benefits peers by helping to tacitly coordinate actions in product markets. Indeed, changes in disclosure are associated with higher future profitability. Our results highlight the potential conflict between securities and antitrust regulations.
+</div>
+<!-- 4th papers -->
+
+
+<br>
+<br>
+<br>
+<br>
+
+    
+<!-- second parts -->
+<!-- first parts -->
+<center><h2>Working Paper</h2></center>
+<!-- 1st papers -->
+<button class="collapsible">
+    <div style="display: inline-block">
+        <p style="display: inline-block">“Learning to Disclose: Disclosure Dynamics in the 1890s Streetcar Industry”, with M. Breuer and R. Stoumbos</p>
+        <i><p style="display: inline-block">SSRN</p></i>
+        <p style="display: inline-block">2021</p>
+        <p style="display:inline-block;"> <a style="color:grey" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3757679" target="_blank">link</a>.</p>
+    </div>  
+</button>
+
+
+<div class="content">
+    <i><b>Abstract:</b></i>
+    We study the descriptiveness of the “unravelling” prediction in the 1890s streetcar industry. In this historical setting, capital-intensive streetcar companies gain the opportunity to disclose their earnings to dispersed investors via a new, quarterly newspaper supplement. We document that a quarter of the companies withhold their earnings from the ﬁrst supplement, inconsistent with the “unravelling” prediction. However, almost all these companies start disclosing within the next couple of supplements, with the relatively-better companies among the remaining non-disclosers initiating disclosure and leaving the pool of non-disclosers each quarter. We interpret these stylized facts through the lens of a disclosure model featuring level-k thinking. Our model estimates that a substantial share of the companies employs a lower level of strategic thinking in the ﬁrst supplement. This deviation from rational expectations appears to explain the initial failure of the “unravelling” prediction. Over time, companies appear to adopt higher levels of thinking, contributing to the rapid convergence to an (almost) full disclosure equilibrium. Collectively, our evidence is consistent with market forces yielding an (almost) full disclosure equilibrium in the medium to long run through repetition and learning.
 </div>
 
 
-<!-- <script>
-    (function(i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r;
-        i[r] = i[r] || function() {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-        a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0];
-        a.async = 1;
-        a.src = g;
-        m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-    ga('create', 'UA-127409568-1', 'auto');
-    ga('send', 'pageview');
-</script> -->
+<!-- 2nd papers -->
+<button class="collapsible">
+    <div style="display: inline-block">
+        <p style="display: inline-block"> “A New Measure of Voluntary Disclosure: Evidence from Corporate Websites”, with R. Boulland and M. Breuer</p>
+        <i><p style="display: inline-block">SSRN</p></i>
+        <p style="display: inline-block">2021</p>
+        <p style="display:inline-block;"> <a style="color:white" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3816623" target="_blank">link</a>.</p>
+    </div>
+</button>
 
-</body>
-</html>
+<div class="content">
+    
+    <i><b>Abstract:</b></i>
+    3We construct a new measure of voluntary disclosure based on ﬁrms’ websites. Using the Wayback Machine, we create a standardized measure of disclosure capturing the quantity of information on ﬁrms’ websites. We validate our measure by documenting that it is positively associated with established measures of ﬁrms’ voluntary disclosure and liquidity. Importantly, we document that our measure, while correlated with established disclosure measures, is not subsumed by those measures. It complements existing measures in three important ways. First, our measure captures not only capital-market-related but also additional information geared toward stakeholders other than investors (e.g., customers). Secondly, our measure can be calculated for a broader sample of ﬁrms, including small, private, and international ﬁrms. Lastly, our measure can be customized to ﬁt the speciﬁc research question at hand (e.g., ESG disclosures) via textual analysis of website content.
+</div>
+<hr/>
+<!-- 3rd papers -->
+<button class="collapsible">
+    <div style="display: inline-block">
+        <p style="display: inline-block">“Public Company Auditing Around the Securities Exchange Act”, with M. Breuer, J. Koenraadt and R. Stoumbos</p>
+        <i><p style="display: inline-block">SSRN</p></i>
+        <p style="display: inline-block">2021</p>
+        <p style="display:inline-block;"> <a style="color:white" href="http://dx.doi.org/10.2139/ssrn.3837593" target="_blank">link</a>.</p>
+    </div>
+</button>
+
+<div class="content">
+    
+    <i><b>Abstract:</b></i>
+    We study the descriptiveness of the “unravelling” prediction in the 1890s streetcar industry. In this historical setting, capital-intensive streetcar companies gain the opportunity to disclose their earnings to dispersed investors via a new, quarterly newspaper supplement. We document that a quarter of the companies withhold their earnings from the ﬁrst supplement, inconsistent with the “unravelling” prediction. However, almost all these companies start disclosing within the next couple of supplements, with the relatively-better companies among the remaining non-disclosers initiating disclosure and leaving the pool of non-disclosers each quarter. We interpret these stylized facts through the lens of a disclosure model featuring level-k thinking. Our model estimates that a substantial share of the companies employs a lower level of strategic thinking in the ﬁrst supplement. This deviation from rational expectations appears to explain the initial failure of the “unravelling” prediction. Over time, companies appear to adopt higher levels of thinking, contributing to the rapid convergence to an (almost) full disclosure equilibrium. Collectively, our evidence is consistent with market forces yielding an (almost) full disclosure equilibrium in the medium to long run through repetition and learning.
+</div>
+<hr/>
+
+
+
+
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <script>
+  var coll = document.getElementsByClassName("collapsible");
+  var i;
+  
+  for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+      if (content.style.maxHeight){
+        content.style.maxHeight = null;
+      } else {
+      //   content.style.maxHeight = content.scrollHeight + "px";
+        content.style.maxHeight = 1000000 + "px";
+      } 
+    });
+  }
+  </script>
+  
+  
+  
+  </body>
