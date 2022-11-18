@@ -100,13 +100,9 @@ title: "Home"
 <hr/>
 <!-- 4th papers -->
 
+<br>
+<br>    
 
-<br>
-<br>
-<br>
-<br>
-
-    
 <!-- second parts -->
 <!-- first parts -->
 <center><h2>Working Paper</h2></center>
@@ -162,7 +158,6 @@ title: "Home"
 
 
 
-</div>
 
 <br>
 <br>
