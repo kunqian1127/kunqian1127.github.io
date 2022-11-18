@@ -6,7 +6,7 @@ title: "Home"
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
     .collapsible {
-      /* background-color:white; */
+      background-color:white;
       /* color: black; */
       cursor: pointer;
       padding: 0 0px;
