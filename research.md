@@ -16,7 +16,7 @@ title: "Home"
       outline: none;
       font-size:10px;
       display: inline-block;
-      height: 50px;
+      height: 30px;
       font-weight: bold;
 
     }
@@ -39,6 +39,7 @@ title: "Home"
     .content {
       padding: 0 5px;
       max-height: 0;
+      font-size:10px;
       /* height: 10px; */
       /* color: black; */
       overflow: hidden;
