@@ -16,7 +16,7 @@ title: "Home"
       outline: none;
       font-size:10px;
       display: inline-block;
-      height: 30px;
+      /* height: flepx; */
       font-weight: bold;
 
     }
