@@ -6,7 +6,7 @@ title: "Home"
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
     .collapsible {
-      background-color:white;
+      /* background-color:white; */
       /* color: black; */
       cursor: pointer;
       padding: 0 0px;
@@ -14,7 +14,7 @@ title: "Home"
       border: none;
       text-align: left;
       outline: none;
-      font-size:14px;
+      /* font-size:14px; */
       display: inline-block;
       height: 50px;
       font-weight: bold;
@@ -40,10 +40,10 @@ title: "Home"
       padding: 0 5px;
       max-height: 0;
       /* height: 10px; */
-      color: black;
+      /* color: black; */
       overflow: hidden;
       transition: max-height 0.2s ease-out;
-      background-color: #white
+      /* background-color: #white */
     }
     </style>
 </head>
@@ -60,7 +60,7 @@ title: "Home"
             <i><p style="display: inline-block"> Journal of Accounting Research,</p></i>
             <p style="display: inline-block"> 2017, 22(3), 1307–1339</p>
         </div>
-        <p style="display:inline-block;"> <a style="color:grey" href="https://doi.org/10.1007/s11142-017-9408-0" target="_blank">link</a>.</p>
+        <p style="display:inline-block;"> <a href="https://doi.org/10.1007/s11142-017-9408-0" target="_blank">link</a>.</p>
 </button>
 
 <div class="content">
@@ -75,7 +75,7 @@ title: "Home"
     <p style="display: inline-block">“Shareholder Litigation and Corporate Disclosure: Evidence from Shareholder Derivative Suits”, with Y. Lou and R. Wang”,</p>
       <i><p style="display: inline-block"> Journal of Accounting Research,</p></i>
       <p style="display: inline-block">2018, 56(3), 797–842</p>
-      <p style="display:inline-block;"> <a style="color:grey" href="https://doi.org/10.1111/1475-679X.12191" target="_blank">link</a>.</p>
+      <p style="display:inline-block;"> <a href="https://doi.org/10.1111/1475-679X.12191" target="_blank">link</a>.</p>
   </div>
 </button>
 <div class="content">
@@ -89,10 +89,9 @@ title: "Home"
         <p style="display: inline-block">“Corporate Disclosure as a Tacit Coordination Mechanism: Evidence from Cartel Enforcement Regulations”, with G. She and A. Zaldokas, </p>
         <i><p style="display: inline-block">Journal of Accounting Research,</p></i>
         <p style="display: inline-block">2020, 58(2), 295–332</p>
-        <p style="display:inline-block;"> <a" href="https://doi.org/10.1111/1475-679X.12301" target="_blank">link</a>.</p>
+        <p style="display:inline-block;"> <a href="https://doi.org/10.1111/1475-679X.12301" target="_blank">link</a>.</p>
     </div>
 </button>
-
 <div class="content">
     <i><b>Abstract:</b></i>
     We empirically study how collusion in product markets affects firms' financial disclosure strategies. We find that after a rise in cartel enforcement, U.S. firms start sharing more detailed information in their financial disclosure about their customers, contracts, and products. This new information potentially benefits peers by helping to tacitly coordinate actions in product markets. Indeed, changes in disclosure are associated with higher future profitability. Our results highlight the potential conflict between securities and antitrust regulations.
