@@ -97,7 +97,7 @@ img.right {
 /* Header */
 
 #header {
-	width: 800px;
+	width: 900px;
 	height: 80px;
 	margin: 0 auto 20px auto;
 	padding-top: 10px;
@@ -180,7 +180,7 @@ img.right {
 /* Page */
 
 #page {
-	width: 950px;
+	width: 800px;
 	margin: 0 auto;
 	background: #f1f1f1;
 /* border: 1px #F0E9D6 solid; */
@@ -193,7 +193,7 @@ img.right {
 
 #content {
 	float: left;
-	width: 800px;
+	width: 600px;
 	padding-left: 10px;
 }
 
@@ -317,7 +317,7 @@ color: #0c0019;
 
 #sidebar {
 	float: right;
-	width: 100px;
+	width: 130px;
 	padding-right: 10px;
 }
 
