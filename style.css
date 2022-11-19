@@ -97,7 +97,7 @@ img.right {
 /* Header */
 
 #header {
-	width: 900px;
+	width: 800px;
 	height: 80px;
 	margin: 0 auto 20px auto;
 	padding-top: 10px;
@@ -180,7 +180,7 @@ img.right {
 /* Page */
 
 #page {
-	width: 1400px;
+	width: 1000px;
 	margin: 0 auto;
 	background: #f1f1f1;
 /* border: 1px #F0E9D6 solid; */
@@ -193,7 +193,7 @@ img.right {
 
 #content {
 	float: left;
-	width: 1200px;
+	width: 800px;
 	padding-left: 10px;
 }
 
@@ -362,4 +362,3 @@ color: #0c0019;
 	text-decoration: none;
 	color: #2f4f4f;
 }
-
