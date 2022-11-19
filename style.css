@@ -97,7 +97,7 @@ img.right {
 /* Header */
 
 #header {
-	width: 900px;
+	width: 1200px;
 	height: 80px;
 	margin: 0 auto 20px auto;
 	padding-top: 10px;
@@ -180,7 +180,7 @@ img.right {
 /* Page */
 
 #page {
-	width: 800px;
+	width: 1100px;
 	margin: 0 auto;
 	background: #f1f1f1;
 /* border: 1px #F0E9D6 solid; */
@@ -193,7 +193,7 @@ img.right {
 
 #content {
 	float: left;
-	width: 600px;
+	width: 850px;
 	padding-left: 10px;
 }
 
@@ -318,17 +318,18 @@ color: #0c0019;
 #sidebar {
 	float: right;
 	width: 130px;
-	padding-right: 10px;
+	padding-right: 20px;
 }
 
 #sidebar ul {
 	margin: 0;
-	padding: 10px 0 0 0;
+	padding: 20px 0 0 0;
 	list-style: none;
 }
 
 #sidebar li {
 	margin-bottom: 40px;
+	margin-top: 100px;
 }
 
 #sidebar li ul {
@@ -348,8 +349,8 @@ color: #0c0019;
 }
 
 #sidebar h2 {
-	padding-bottom: 5px;
-	font-size: 18px;
+	padding-bottom: 30px;
+	font-size: 25px;
 	font-weight: normal;
 	color: #2f4f4f;
 }
