@@ -186,7 +186,7 @@ img.right {
 /* border: 1px #F0E9D6 solid; */
 
 	border: 1px #f1f1f1 solid;
-	padding: 20px 20px;
+	padding: 10px 10px;
 }
 
 /* Content */
@@ -214,7 +214,7 @@ img.right {
 
 /* Item Class*/
 .item {
-margin-top:10px
+margin-top:4px
 }
 
 .item ul {
@@ -287,8 +287,8 @@ color: #0c0019;
 
 .item .meta .more {
 	width: 185px;
-	height: 35px;
-	padding: 5px 10px;
+	height: 12px;
+	padding: 10px 12px;
 	background: #f5f5f5; /*#8BCB2F;*/
 	border: 1px dashed #D1D1D1;
 	text-transform: uppercase;
@@ -297,7 +297,7 @@ color: #0c0019;
 }
 
 .item .meta .comments {
-	padding: 5px 10px;
+	padding: 10px 12px;
 	text-transform: uppercase;
 	text-decoration: none;
 	background: #f5f5f5;/*#0094E0;*/
