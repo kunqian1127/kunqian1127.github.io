@@ -41,6 +41,7 @@ h1, h2, h3 {
 	margin: 0;
 /*	text-transform: lowercase;*/
 	font-family: Andale Mono, sans-serif;
+	text-align: left;
 	font-weight: normal;
 	color: #2f4f4f; 
 
