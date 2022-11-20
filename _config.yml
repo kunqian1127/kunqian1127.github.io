@@ -1,6 +1,1 @@
 theme: jekyll-theme-tactile
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:tb2797@columbia.edu"}
-  - {title: Github, icon: github, url: ""}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
