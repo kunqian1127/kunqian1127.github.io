@@ -14,13 +14,13 @@ body {
     background-repeat: no-repeat;
     
 	font-family: Andale Mono, sans-serif;
-	font-size: 14px;
+	font-size: 12px;
 	color: #0c0019;
 
 }
 
 
-@media screen and (max-width: 640px){
+@media screen and (max-width: 500px){
  body {
 
  /*  background: #070d12 url("machine32.jpg"); */
@@ -97,7 +97,7 @@ img.right {
 /* Header */
 
 #header {
-	width: 1200px;
+	width: 1000px;
 	height: 80px;
 	margin: 0 auto 20px auto;
 	padding-top: 10px;
@@ -180,7 +180,7 @@ img.right {
 /* Page */
 
 #page {
-	width: 1100px;
+	width: 1000px;
 	margin: 0 auto;
 	background: #f1f1f1;
 /* border: 1px #F0E9D6 solid; */
@@ -193,7 +193,7 @@ img.right {
 
 #content {
 	float: left;
-	width: 850px;
+	width: 800px;
 	padding-left: 10px;
 }
 
